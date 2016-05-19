@@ -11,3 +11,4 @@ caixa:
 	#Ler codigo de barras
 	#calculo do preco de cada produto
 	#Receber pagamento
+	#Porra mandíbula, faz as parada direito, seu merda
