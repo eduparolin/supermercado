@@ -1,3 +1,6 @@
+import ponto.py
+
+#comentario
 main:
 	#printf('esse é um supermercado');
 
